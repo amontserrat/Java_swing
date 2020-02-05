@@ -13,3 +13,15 @@ This example includes a text box and two buttons. One button displays the text o
 This example displays a JLabel containing a message. By checking and un-checking the two checkboxes the format of the message is modified.
 
 <img src="img/CheckBox.png" width="400">
+
+## ComboBox
+
+This example displays a JLabel containing a message. By selecting the options from the ComboBox, the format of the message is modified.
+
+<img src="img/ComboBox.png" width="400">
+
+## RadioButton
+
+This example displays a JLabel containing a message. By selecting each of the radiobuttons, the format of the message is modified accordingly.
+
+<img src="img/RadioButton.png" width="400">
