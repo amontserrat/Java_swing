@@ -25,3 +25,9 @@ This example displays a JLabel containing a message. By selecting the options fr
 This example displays a JLabel containing a message. By selecting each of the radiobuttons, the format of the message is modified accordingly.
 
 <img src="img/RadioButton.png" width="400">
+
+## Spinner
+
+This example displays two spinners on the top margin, and a JLabel containing a message on the bottom side. By modifying each of the spinners, the format of the message is modified accordingly.
+
+<img src="img/Spinner.png" width="400">
