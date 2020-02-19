@@ -31,3 +31,11 @@ This example displays a JLabel containing a message. By selecting each of the ra
 This example displays two spinners on the top margin, and a JLabel containing a message on the bottom side. By modifying each of the spinners, the format of the message is modified accordingly.
 
 <img src="img/Spinner.png" width="400">
+
+## Menu
+
+In this example, a Menu is added to the frame. The Menu has two options, 'Option 1' and 'Option 2', each having its own items and sub-items. Items from 'Option 1' have an icon associated to the item. 
+
+<img src="img/Menu1.png" width="400">
+<img src="img/Menu2.png" width="400">
+
