@@ -39,3 +39,8 @@ In this example, a Menu is added to the frame. The Menu has two options, 'Option
 <img src="img/Menu1.png" width="400">
 <img src="img/Menu2.png" width="400">
 
+## Toolbar
+
+In this example, a Toolbar is added to the panel as a complement to the main Menu. The Menu has three options which correspond to different colors. The toolbar offers the same options, which are displayed as icons.
+
+<img src="img/Toolbar.png" width="400">
